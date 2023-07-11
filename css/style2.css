@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(185, 180, 180);
+}
+h1{
+    color: tomato;
+    border-style: dotted;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: aqua;
+}
+p{
+    color: brown;
+    border-color: black;
+    border-style:dashed;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: aquamarine;
+
+}
